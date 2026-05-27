@@ -74,9 +74,3 @@ g++ -o library projectcpp-103-javaria.cpp
 - `ctime` for issue date and fine calculation
 - Bubble sort for student display by roll number
 - Modular design with separate functions for each feature
-
----
-
-## Author
-
-Javaria Akbar| Bahria University, CS Semester 4
